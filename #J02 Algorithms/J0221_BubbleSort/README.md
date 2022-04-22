@@ -32,7 +32,7 @@ function bubble_sort (array, length) {
 
 |程式語言|目標                         |狀態  |
 |:-----:|:---------------------------|:----:|
-|C      |[Bubble sort for C](https://github.com/WaylonYuen/learn-c-basic/tree/Master/%23J02%20Algorithms/%23J0221_BubbleSort-Solved)       |Solved  |
+|C      |[Bubble sort for C](https://github.com/WaylonYuen/learn-c/tree/Master/%23J02%20Algorithms/%23J0221_BubbleSort-Solved)       |Solved  |
 <!-- |C++    |[Bubble sort for C++]()     |Task  |
 |C#     |[Bubble sort for C#]()      |Task  |
 |Java   |[Bubble sort for Java]()    |Task  |

@@ -18,7 +18,7 @@ Null
 
 |程式語言|目標                         |狀態  |
 |:-----:|:---------------------------|:----:|
-|C      |[Selection sort for C](https://github.com/WaylonYuen/learn-c-basic/tree/Master/%23J02%20Algorithms/%23J0221_SelectionSort-Solved)       |Solved  |
+|C      |[Selection sort for C](https://github.com/WaylonYuen/learn-c/tree/Master/%23J02%20Algorithms/%23J0222_SelectionSort-Solved)       |Solved  |
 <!-- |C++    |[Selection sort for C++]()     |Task  |
 |C#     |[Selection sort for C#]()      |Task  |
 |Java   |[Selection sort for Java]()    |Task  |
