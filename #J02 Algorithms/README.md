@@ -9,7 +9,7 @@
 |:-----------------:|:-----------------------------------------------|:---------:|--------------------|---------------|:--------:|
 |<b>Chapter 2</b>   |<b>排序 (Sort)</b>                               |            |                     |               |         |
 |2-1                |[冒泡排序 (Bubble sort)](J0221_BubbleSort/)       |O(n^2^)     |                     |資料排序        |Solved   |
-|2-2                |選擇排序 (Select sort)                            |O(n^2^)     |                     |資料排序        |Task     |
+|2-2                |[選擇排序 (Selection sort)](J0222_SelectionSort/) |O(n^2^)     |                     |資料排序        |Solved   |
 |2-3                |插入排序 (Insertion sort)                         |O(n^2^)     |                     |資料排序        |Task     |
 |2-4                |堆積排序 (Heap sort)                              |O(n*log(n)) |樹狀結構 (Tree)       |資料排序        |Task     |
 |2-5                |合併排序 (Merge sort)                             |O(n*log(n)) |                     |資料排序        |Task     |
